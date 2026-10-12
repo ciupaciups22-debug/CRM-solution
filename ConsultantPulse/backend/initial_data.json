@@ -1,0 +1,44 @@
+{
+ "clients": [
+  {
+   "id": "3d4447dd-f54a-4df8-b2b9-d9465334e03b",
+   "company_name": "Trionec",
+   "cui": "RO7086581",
+   "solution": "",
+   "solution_table": {
+    "systems": []
+   },
+   "address": "Falticeni",
+   "equipment": {
+    "cutting": {
+     "type": "",
+     "contact_person": "",
+     "phone": ""
+    },
+    "machining": {
+     "type": "",
+     "contact_person": "",
+     "phone": ""
+    },
+    "welding": {
+     "type": "",
+     "contact_person": "",
+     "phone": ""
+    },
+    "additional": {
+     "type": "",
+     "contact_person": "",
+     "phone": ""
+    }
+   },
+   "contact_name": "Iulia Manolache",
+   "contact_email": "",
+   "contact_phone": "",
+   "last_visit": null,
+   "visit_count": 0,
+   "created_at": "2026-10-12 06:16:19.898000",
+   "cui_norm": "7086581"
+  }
+ ],
+ "visits": []
+}
